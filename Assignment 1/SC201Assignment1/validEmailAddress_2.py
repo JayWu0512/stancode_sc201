@@ -20,16 +20,16 @@ Accuracy of your model: TODO:
 """
 
 WEIGHT = [                           # The weight vector selected by you
-	[],                              # (Please fill in your own weights)
-	[],
-	[],
-	[],
-	[],
-	[],
-	[],
-	[],
-	[],
-	[]
+	[8.4],                              # (Please fill in your own weights)
+	[0.4],
+	[0.2],
+	[0.2],
+	[0.9],
+	[-0.65],
+	[0.1],
+	[0.1],
+	[0.1],
+	[-0.7]
 ]
 
 DATA_FILE = 'is_valid_email.txt'     # This is the file name to be processed
